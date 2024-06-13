@@ -1,0 +1,10 @@
+[
+{"success":true,
+"fields":[
+    {"id":"question_pool","name":"Question Pool","type":"radio", "options":[{"text":"Medibee Basic Booster MCQ"},{"text":"Previous Year Prof wise MCQ"}]},
+    {"id":"prof","name":"Prof","type":"radio", "options":[{"text": "1st"},{"text":"2nd"},{"text":"3rd"},{"text":"Final"}]},
+    {"id":"subject","name":"Subject","type":"radio","options":[{"text":"Anatomy"},{"text":"Physiology"},{"text":"Biochemistry"}]},
+    {"id":"card","name":"Card","type":"dropdown","options":[{"text":"Card 1"},{"text":"Card 2"},{"text":"Card 3"}]},
+    {"id":"no_of_question","name":"Number of questions","type":"dropdown","options":[{"text":"10"},{"text":"20"},{"text":"30"}]},
+    {"id":"time","name":"Time","type":"dropdown","options":[{"text":"5"},{"text":"10"},{"text":"15"}]}
+]}]
